@@ -1,0 +1,7 @@
+@import "npm:open-props/open-props.min.css";
+@import "reset.css";
+
+.completed {
+  text-decoration: line-through;
+  color: var(--gray-5);
+}
